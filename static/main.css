@@ -32,11 +32,9 @@ button{
 }
 
 .logo img{
-    width: 420px;
+    width: 500px;
     height: auto;
-    text-align: center;
-    display: block;
-    position: absolute;
-    top: 100px;
-    left: 563px;
+    position: relative;
+    left : 35%;
+    top: 110px;
   }
